@@ -22,4 +22,4 @@ Workshop for beginners to Tableau. Delivered for [The Curve](https://thirdsector
 
 * [202105 - Excel workshop](./202105_excel_workshop.pdf)
 
-Workshop for beginners/intermidate Excel users covering tips for designing your spreadsheets to make them easy to follow and for optimal use of Excel functionality (functions, data validation etc.).
+Workshop for beginners/intermidate Excel users covering tips for designing your spreadsheets to make them easy to follow and for optimal use of Excel functionality (functions, data validation etc.). Also delivered at The Curve and Data4GoodFest.

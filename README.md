@@ -2,6 +2,7 @@
 
 Repo of slides for talks and workshops I've delivered. 
 
+![](images/download.png)
 
 * [202106 - Working in Data](202106 - Working in Data.pdf)
 
